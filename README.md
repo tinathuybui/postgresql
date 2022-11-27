@@ -1,3 +1,9 @@
+# Installation
+
+```shell
+brew install postgresql
+```
+
 # Code
 
 ```
