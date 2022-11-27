@@ -18,6 +18,11 @@ ALTER COLUMN explained_by_generosity TYPE TEXT,
 ALTER COLUMN explained_by_perceptions_of_corruption TYPE TEXT;
 ```
 
+# psycopg2
+
+```
+pip3 install psycopg2
+```
 
 
 # Resources
